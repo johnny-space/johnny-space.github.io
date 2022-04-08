@@ -1,5 +1,5 @@
-
-### Stellate Ganglion Block (SGB) finally in Munich
+--------------------------------------------
+# Stellate Ganglion Block (SGB) finally in Munich
 
 **we will open a practice for sgb in munich**
 
