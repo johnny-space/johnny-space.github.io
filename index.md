@@ -1,9 +1,9 @@
 ------------------------------------------------
 # Stellate Ganglion Block (SGB) finally in Munich
 
-**We will open a practice for sgb in munich**
+**We will open a practice for SGB in munich**
 
-If you are interested hit the button and let ist know
+If you are interested hit the button and let us know
 
  <button type="button">Ping Me!</button> 
 
