@@ -3,6 +3,8 @@
 **we will open a practice for sgb in munich**
 if you are interested hit the button
 
+[Click me](http://www.google.com){: .btn}
+
 
 ![Meadow](/18304602075_1007d2f2db_w.jpg "Meadow")
 
