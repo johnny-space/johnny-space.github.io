@@ -10,6 +10,6 @@ if you are interested hit the button
 
 Picture [Meadow by Barney Moss](https://www.flickr.com/photos/barneymoss/18304602075/) published under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
-Further Reading: [https://en.wikipedia.org/wiki/Stellate_ganglion]
+Further Reading: <https://en.wikipedia.org/wiki/Stellate_ganglion>
 
 {% include buttons.html %}
